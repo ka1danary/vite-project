@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #111111 ;
+    color: white;
+    padding: 30px 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    border: 20px;
+}
+
